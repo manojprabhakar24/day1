@@ -1,0 +1,32 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+ 1)HTTP 1.1 is a latest version of hypertext transfer protocol 
+2)It was invented in 1997 by web’s chief creator Tim berner lee that includes a committee of INTERNET ENGINEERING TASK FORCE.
+3)It provides fastest delivery of web pages and reduce the web traffic
+4)It decompresses HTML files, providing a substantial savings in the amount of data to be transmitted.
+5)It introduced a KEEP ALIVE MECHANISM (reuse the same TCP connection)
+6)HTTP 1.1 does not provide a method for a server to direct clients to discard these cached credentials  which is a big security risk so we jumped into the next version HTTP2.
+
+
+  HTTP2 is developed by HTTP working group in early 2015 and  approved by          IETF(INTERNET ENGINEERING TASK FORCE)
+HTTP2 is binary, instead of textual.
+It  is fully multiplexed, instead of ordered and blocked.
+HTTP2 allows servers to “push” responses proactively into client caches.
+As  of Oct 2021, 47% of the top 10 million websites supported HTTP 2.
+
+
+  Objects and its internal representation in Javascript
+
+         Objects in JavaScript are defined as the unordered collection of related data in the form of “key: value” pairs.
+A JavaScript object is also collection of named values having PROPERTIES and METHODS
+For example: car, pencil,bike,person etc. 
+Objects, in JavaScript, is its most important data-type and forms the building blocks for modern JavaScript.
+The data-types are Number, String, Boolean, null, undefined and symbol.
+
+
+
+
+
+
+
+
